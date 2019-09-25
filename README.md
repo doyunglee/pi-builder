@@ -47,7 +47,7 @@ cd flash
 
 ## Usage instructions
 
-Place the flashed microSD card into your Pi device, power it up and give it a minute or two to start the embedded access point `00-PiCamera`, with password `publiclab`.
+Place the flashed microSD card into your Pi device, power it up and give it a minute or two to start the embedded access point `01-PiCamera`, with password `publiclab`.
 
 Once you are connected to this wifi network, the Pi has hostname `pi` with IP address `172.24.1.1` and can be reached with from the `pi.local` or `pi.localdomain` address (either avahi or dns).
 
