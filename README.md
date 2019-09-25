@@ -1,5 +1,5 @@
 
-# Public Lab Pi Camera Kit
+# Public Lab Pi Camera Kit (Pi-Cam 01)
 
 This project is designed to easily generate bootable SD card images from a plain "Raspbian" original image, with additional software already installed and configured. The output images are made available for download and flashing onto an SD card (see below). 
 
